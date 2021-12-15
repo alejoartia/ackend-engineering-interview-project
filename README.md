@@ -1,5 +1,8 @@
 # backend-project-template            
 
+THE SOLUTION EXPLAINED IS IN THE README_SOLUTION.md
+
+
 ## Welcome
 Hello! Welcome to the backend engineering task as part of your interview process with Deel as a Python/Django developer! This task should take about 1-3 hours of your time. As you're completing the tasks below, make sure you document your process including any snags you hit, trade-offs you made, or shortcuts you decided to take. Your decision-making process is equally as important as the completion of these tasks.
 

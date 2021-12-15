@@ -15,9 +15,9 @@ class User(AbstractUser):
         related_name="reports",
     )
     company = models.ForeignKey(
-        Company,
-        null=False,
-        blank=False,
+        Company, 
+        null=True,
+        blank=True,
         on_delete=models.CASCADE,
         related_name="employees",
     )
